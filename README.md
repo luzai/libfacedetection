@@ -79,6 +79,7 @@ make
 ## CNN-based Face Detection on ARM Linux (Raspberry Pi 3 B+)
 
 (* to be updated)
+
 | Method             |Time          | FPS         |Time          | FPS         |
 |--------------------|--------------|-------------|--------------|-------------|
 |                    |Single-thread |Single-thread|Multi-thread  |Multi-thread |
